@@ -1,0 +1,289 @@
+.MuiDataGrid-root {
+    overflow: hidden;
+  }
+  
+  .MuiDataGrid-cell {
+    text-align: center;
+    padding: 0;
+  }
+
+.alternateRow {
+    background-color: #D7ECEB !important;
+}
+
+.extcont
+{
+
+    margin-top: 20px;
+    text-align: center;
+    width:97%;
+}
+
+.cont1
+{
+    border-radius: 10px 10px 0px 0px;
+    background: #364D3F;
+    box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.25);
+    display:block;
+    text-align: left;
+    color: #fff;
+    height:74px;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 15px;
+    padding-top: 20px;
+    width:97%;
+}
+
+.cont2
+{
+    margin-left: 20px;
+    margin-right: 20px;
+    width:97%;
+
+}
+
+.row1
+{
+    background: #D7ECEB;
+
+}
+
+.Book
+{
+    background-color: black;
+}
+
+.paymnt
+{
+    width:100px;
+    height:30px;
+    border-radius: 5px;
+    padding: 10px,10px;
+    background: #D8BDAA;
+}
+
+.prop
+{
+    background-color: red;
+}
+
+/* .outside
+{
+    background: #ECD6C7;
+    display:flex;
+} */
+
+.ongoing
+{
+    display:inline;
+    /* margin-left: 800px; */
+    font-size: 16px;
+    padding:15px 15px;
+    border-radius: 5px;
+    background: #61865D;
+    margin-left: 0;
+    color:#fff;
+}
+
+.upcoming
+{
+    display:inline;
+    font-size: 16px;
+    padding:15px 15px;
+    background: #ECD6C7;
+    color:black;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+
+.past
+{
+    display:inline;
+    font-size: 16px;
+    padding:15px 15px;
+    background: #ECD6C7;
+    color: black;
+    font-weight: 700;
+    width:200px;
+    border-radius: 10px;
+    padding-right:20px;
+    /* margin-left: 1430px; */
+    
+}
+
+/* @media screen and (min-width:400px) {
+
+    .ext
+    {
+        margin-left: 200px;
+    }
+   
+} */
+ 
+@media screen and (max-width:1920px) {
+
+    .ext
+    {
+        margin-left: 1450px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+   @media screen and (max-width:1820px) {
+
+    .ext
+    {
+        margin-left: 1330px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+   @media screen and (max-width:1720px) {
+
+    .ext
+    {
+        margin-left: 1220px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+   @media screen and (max-width:1620px) {
+
+    .ext
+    {
+        margin-left: 1110px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+   @media screen and (max-width:1520px) {
+
+    .ext
+    {
+        margin-left: 1010px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+   @media screen and (max-width:1420px) {
+
+    .ext
+    {
+        margin-left: 900px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+   @media screen and (max-width:1320px) {
+
+    .ext
+    {
+        margin-left: 800px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+
+
+   @media screen and (max-width:1100px) {
+
+    .ext
+    {
+        margin-left: 600px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+   
+   @media screen and (max-width:1000px) {
+
+    .ext
+    {
+        margin-left: 470px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+   @media screen and (max-width:900px) {
+
+    .ext
+    {
+        margin-left: 370px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+   @media screen and (max-width:800px) {
+
+    .ext
+    {
+        margin-left: 270px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+   @media screen and (max-width:700px) {
+
+    .ext
+    {
+        margin-left: 170px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+   @media screen and (max-width:650px) {
+
+    .ext
+    {
+        margin-left: 120px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+
+.ext
+{
+    background: #ECD6C7;
+    display:inline;
+    font-size: 16px;
+    padding:15px 0px;
+    background: #ECD6C7;
+    color: black;
+    font-weight: 700;
+    width:200px;
+    border-radius: 10px;
+    /* margin-left: 1430px; */
+   
+}
+
+

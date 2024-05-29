@@ -1,0 +1,53 @@
+.nav-buttons
+{
+    text-decoration: none !important;
+    color: #FFF;
+    font-family: 'Roboto';
+    font-size: 17px;
+    font-style: normal;
+    /* font-weight: 700; */
+    line-height: normal;
+    letter-spacing: -0.5px;
+    margin: auto;
+    align-self: center !important;
+}
+
+#basic-button
+{
+    background-color: transparent;
+    border: none;
+    text-decoration: none !important;
+    color: #FFF;
+    font-family: 'Roboto';
+    font-size: 17px;
+    font-style: normal;
+    /* font-weight: 700; */
+    line-height: normal;
+    letter-spacing: -0.5px;
+}
+
+.menu
+{
+    border-bottom: 1px solid grey;
+    
+    
+}
+
+.css-6hp17o-MuiList-root-MuiMenu-list
+{
+    background-color: #F0D2BE ;
+   
+}
+
+
+.menu-link
+{
+    text-decoration: none;
+    color: #000;
+font-family: 'Roboto';
+font-size: 18px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+letter-spacing: -0.36px;
+}

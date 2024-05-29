@@ -1,0 +1,87 @@
+.alternateRow {
+    background-color: #D7ECEB !important;
+}
+
+    .MuiDataGrid-root {
+        overflow: hidden;
+    }
+  
+  .MuiDataGrid-cell {
+    text-align: center;
+    padding: 0;
+  }
+
+.extcont
+{
+
+    margin-top: 20px;
+    text-align: center;
+    width:97%;
+}
+
+.cont1
+{
+    color: white;
+    background: #364D3F;
+    
+}
+
+.cont2
+{
+    margin-left: 20px;
+    margin-right: 20px;
+    width:97%;
+
+}
+
+.row1
+{
+    background: #D7ECEB;
+
+}
+
+.Book
+{
+    background-color: black;
+}
+
+.paymnt
+{
+    width:100px;
+    height:30px;
+    border-radius: 5px;
+    padding: 10px,10px;
+    background: #D8BDAA;
+}
+
+.prop
+{
+    background-color: red;
+}
+.button-21{
+    width: 86px;
+    border: 0px;
+    height: 43px;
+    border-radius: 5px;
+    background: #D8BDAA;
+    margin-right: 20px;
+  }
+  .button-21:hover
+{
+  background-color: #364D3F !important;
+  color: white !important;
+  cursor: pointer;
+}
+  .img1 {
+    width: 250px;
+    height: 200px;
+ }
+
+ .division
+ {
+    /* border: 2px solid black; */
+    /* border-radius: 5px; */
+    border-radius: 5px;
+    border: 1px solid #4A4A4A;
+    background: #FFF;
+  }

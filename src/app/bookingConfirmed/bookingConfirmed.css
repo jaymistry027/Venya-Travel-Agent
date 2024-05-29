@@ -1,0 +1,103 @@
+.MuiDataGrid-root {
+    overflow: hidden;
+  }
+  
+  .MuiDataGrid-cell {
+    text-align: center;
+    padding: 0;
+  }
+
+.alternateRow {
+    background-color: #D7ECEB !important;
+}
+
+.extcont
+{
+
+    margin-top: 20px;
+    text-align: center;
+    width:97%;
+}
+
+.cont1
+{
+    border-radius: 10px 10px 0px 0px;
+    background: #364D3F;
+    box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.25);
+    display:block;
+    text-align: left;
+    color: #fff;
+    height:74px;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 15px;
+    padding-top: 20px;
+    width:97%;
+}
+
+.cont2
+{
+    margin-left: 20px;
+    margin-right: 20px;
+    width:97%;
+
+}
+
+.row1
+{
+    background: #D7ECEB;
+
+}
+
+.Book
+{
+    background-color: black;
+}
+
+.paymnt
+{
+    width:120px;
+    height:25px;
+    border-radius: 5px;
+    padding: 10px,10px;
+    background: #D8BDAA;
+}
+
+.prop
+{
+    background-color: red;
+}
+
+.btn
+{
+    padding:15px 10px;
+    padding-bottom: 15px;
+    width:120px;
+    height:43px;
+    text-align: center;
+    background-color: #D8BDAA;
+    border-radius: 6px;
+    font-size: 15px;
+    display:flex;
+    font-family: Roboto;
+}
+
+.f
+{
+    height:50px;
+    margin-bottom: 20px;
+}
+
+.download-icon
+{
+    display: flex;
+    margin-bottom: 15px;
+    padding-right: 3px;
+}
+
+ /* body
+{
+    overflow: hidden;
+}  */

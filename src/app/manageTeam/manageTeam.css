@@ -1,0 +1,500 @@
+.MuiDataGrid-root {
+    overflow: hidden;
+  }
+  
+  .MuiDataGrid-cell {
+    text-align: center;
+    padding: 0;
+  }
+
+.alternateRow {
+    background-color: #D7ECEB !important;
+}
+
+.extcont
+{
+
+    margin-top: 20px;
+    text-align: center;
+    width:97%;
+}
+
+.cont1
+{
+    border-radius: 10px 10px 0px 0px;
+    background: #364D3F;
+    box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.25);
+    display:block;
+    text-align: left;
+    color: #fff;
+    height:74px;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 15px;
+    padding-top: 20px;
+    width:97%;
+}
+
+.cont2
+{
+    margin-left: 20px;
+    margin-right: 20px;
+    width:97%;
+
+}
+
+.row1
+{
+    background: #D7ECEB;
+
+}
+
+.Book
+{
+    background-color: black;
+}
+
+.paymnt
+{
+    width:100px;
+    height:30px;
+    border-radius: 5px;
+    padding: 10px,10px;
+    background: #D8BDAA;
+}
+
+.prop
+{
+    background-color: red;
+}
+
+.ongoing
+{
+    display:inline;
+    /* margin-left: 800px; */
+    font-size: 16px;
+    padding:15px 15px;
+    border-radius: 5px;
+    background: #61865D;
+    margin-left: 0;
+    color:#fff;
+}
+
+.upcoming
+{
+    display:inline;
+    font-size: 16px;
+    padding:15px 15px;
+    background: #ECD6C7;
+    color:black;
+    font-weight: 700;
+    border-radius: 5px;
+    
+}
+.past
+{
+    display:inline;
+    font-size: 16px;
+    padding:15px 15px;
+    background: #ECD6C7;
+    color: black;
+    font-weight: 700;
+    width:200px;
+    border-radius: 10px;
+    padding-right:20px;
+}
+
+.ext
+{
+    background: #ECD6C7;
+    display:inline;
+    font-size: 16px;
+    padding:15px 0px;
+    background: #ECD6C7;
+    color: black;
+    font-weight: 700;
+    width:200px;
+    border-radius: 10px;
+    margin-left: 740px;
+    
+}
+
+.action1,.action2
+{
+    border-radius: 5px;
+    background: #D8BDAA;
+    color: #000;
+    width: 107px;
+    height: 30px;
+    flex-shrink: 0;
+    color: #000;
+    /* font-family: Roboto; */
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+}
+
+.action1
+{
+    margin-right:10px;
+    width:95px;
+}
+
+.action2
+{
+    width:98px;
+}
+
+.edit
+{
+    width:15px;
+    height:15px;
+    margin-right:3px;
+}
+
+.edit:hover
+{
+    background-color: darken(#D8BDAA,10);
+}
+
+.division1Head
+{
+    /* background-color: #D8BDAA; */
+    margin: 0;
+    padding:25px;
+    padding-left: 27.5px;
+}
+
+.division1Head
+{
+    margin-left: 20px;
+}
+
+.b1
+{
+    margin:0;
+    background-color: #D8BDAA;
+    width: 518px;
+    height: 75px;
+    flex-shrink: 0;
+    margin-bottom: 20px;
+    
+}
+
+.MuiBox-root
+{
+    padding:0;
+    border-radius: 6px ;
+}
+
+.content-container
+{
+    padding-left:25px;
+    padding-top:10px;
+    margin-left: 20px;
+}
+
+.outside-contents
+{
+    margin-left: 20px;
+}
+.title-inside-modal
+{
+    font-weight: bold;
+    font-size: 20px ;
+    margin-bottom:10px;
+}
+
+.button-header
+{
+    color: #696F79;
+    font-size: 16px;
+    margin-left: 25px;
+    font-family: Roboto;
+}
+
+.input,.submit
+{
+    height:55px;
+    width:432px;
+    margin-left:25px;
+    margin-bottom: 25px;
+}
+
+.submit
+{
+    border-radius: 6px;
+    background: #364D3F;
+    color: #fff; 
+}
+
+.submit:hover
+{
+    background-color:#364D3F ;
+}
+
+.close
+{
+    margin-left: 410px;
+    display: inline;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.link-popup-2
+{
+    display:inline;
+    margin-left: 830px;
+}
+
+
+.subuserclass
+{
+    color: #fff;
+    /* display: flex; */
+    margin-left: 74vw; 
+    
+}
+
+.enclosingContainer
+{
+    display: flex;
+    margin-left: 205px;
+    margin-top: 85.5px;
+    margin-bottom: 20px;
+}
+
+.tag1
+{
+    color: #000;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    text-align: center;
+    margin-bottom: 25px;
+    font-family: Roboto;
+
+}
+
+.tag2
+{
+    color: #000;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 111.111% */
+    /* margin-bottom: 30px; */
+    font-family: Roboto;
+
+}
+
+.tagencloser
+{
+    display: inline;
+    /* justify-content: center;     */
+    /* width:45px; */
+    /* margin-bottom: 20px; */
+}
+
+.handle-got-it
+{
+    width: 430px;
+    height: 63px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: #364D3F;
+    color: #fff;
+    margin-left: 50px;
+    margin-top: 25px;
+    font-family: Roboto;
+}
+
+
+.handle-got-it:hover
+{
+    background-color:#364D3F;
+   
+}
+
+
+ body
+{
+    overflow-x: hidden;
+} 
+
+@media screen and (max-width:2020px) {
+
+    .subuserclass
+    {
+        margin-left: 1500px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+
+@media screen and (max-width:1920px) {
+
+    .subuserclass
+    {
+        margin-left: 1470px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+   @media screen and (max-width:1820px) {
+
+    .subuserclass
+    {
+        margin-left: 1370px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+   @media screen and (max-width:1720px) {
+
+    .subuserclass
+    {
+        margin-left: 1270px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+   @media screen and (max-width:1620px) {
+
+    .subuserclass
+    {
+        margin-left: 1170px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+   @media screen and (max-width:1520px) {
+
+    .subuserclass
+    {
+        margin-left: 1070px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+   @media screen and (max-width:1420px) {
+
+    .subuserclass
+    {
+        margin-left: 900px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+   @media screen and (max-width:1320px) {
+
+    .subuserclass
+    {
+        margin-left: 800px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+   @media screen and (max-width:1220px) {
+
+    .subuserclass
+    {
+        margin-left: 700px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+
+
+   @media screen and (max-width:1100px) {
+
+    .subuserclass
+    {
+        margin-left: 600px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+   
+   @media screen and (max-width:1000px) {
+
+    .subuserclass
+    {
+        margin-left: 470px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+   @media screen and (max-width:900px) {
+
+    .subuserclass
+    {
+        margin-left: 370px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+   @media screen and (max-width:800px) {
+
+    .subuserclass
+    {
+        margin-left: 270px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+   @media screen and (max-width:700px) {
+
+    .subuserclass
+    {
+        margin-left: 170px;
+        position:sticky;
+        
+    }
+   
+   } 
+
+
+   
+   @media screen and (max-width:650px) {
+
+    .ext
+    {
+        margin-left: 120px;
+        position:sticky;
+        
+    }
+   
+   } 
